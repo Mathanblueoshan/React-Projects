@@ -1,0 +1,10 @@
+*{margin: 0;padding:0;box-sizing: border-box;}
+.header{
+    background-color:black;
+    color: greenyellow;
+    padding: 10px;
+    font-family:Verdana,Tahoma, sans-serif;
+    text-align: center;
+    font-size: 48px;
+    box-shadow: 0 6px 4px rgba(0,0,0,0.15);
+}

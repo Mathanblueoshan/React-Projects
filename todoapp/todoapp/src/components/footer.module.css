@@ -1,0 +1,16 @@
+.footer{
+  background-color:#acff2f;
+  padding: 20px;
+  position: fixed;
+  bottom:0;
+  right: 0;
+  left: 0;
+  display:flex ;
+  justify-content: center;
+  gap: 32px;
+}
+.counts{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Verdana, Tahoma, sans-serif;
+}

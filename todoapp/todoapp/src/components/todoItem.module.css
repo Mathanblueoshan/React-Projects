@@ -1,0 +1,27 @@
+.item{
+padding: 10px;
+width:100%;
+
+}
+.done{
+    text-decoration:line-through;
+}
+.itemName{
+padding:15px 0;
+font-size: 20px;
+font-weight: bold;
+color:#3e4042;
+}
+.dltBtn{
+float:right;
+padding: 3px 6px;
+font-size: 16px;
+font-family:Verdana, sans-serif;
+border:none;
+background-color:black;
+color:greenyellow;
+font-weight: 600;
+border-radius:4px;
+transition:.6s;
+}
+.dltBtn:hover{transform:rotate(-360deg);}
